@@ -1,0 +1,314 @@
+<Furniture>
+	<Furniture Name="Elevator">
+		<Name>Lift</Name>
+		<Description>Plaatsen liften op elkaar om ze te connecten</Description>
+	</Furniture>
+	<Furniture Name="Table">
+		<Name>Tafel</Name>
+		<Description>Plaats spullen erop en stoelen er omheen</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Glass Table">
+		<Name>Glazen tafel</Name>
+		<Description>Geniet van het uitzicht op je voeten tijdens je werk</Description>
+		<Color1>Frame</Color1>
+	</Furniture>
+	<Furniture Name="2m End Table">
+		<Name>2m bijzettafel</Name>
+		<Description>Ongeveer rond</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="3m End Table">
+		<Name>3m bijzettafel</Name>
+		<Description>Nog meer rond</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Cheap Chair">
+		<Name>Goedkope stoel</Name>
+		<Description>Niet confortable, plastic stoel</Description>
+		<Color1>Seat</Color1>
+		<Color2>Support</Color2>
+	</Furniture>
+	<Furniture Name="Office Chair">
+		<Name>Kantoor stoel</Name>
+		<Description>Mooie ondersteunde stoel, maar geen wielen</Description>
+		<Color1>Seat</Color1>
+		<Color2>Back</Color2>
+		<Color3>Support</Color3>
+	</Furniture>
+	<Furniture Name="Waiting Chairs">
+		<Name>Wacht stoelen</Name>
+		<Description></Description>
+		<Color1>Frame</Color1>
+		<Color2>Seat</Color2>
+	</Furniture>
+	<Furniture Name="Couch">
+		<Name>Rustbank</Name>
+		<Description>Leef ruimte Inc.</Description>
+		<Color1>Fabric</Color1>
+	</Furniture>
+	<Furniture Name="Bench">
+		<Name>Bank</Name>
+		<Description>Het is een bank</Description>
+		<Color1>Base</Color1>
+		<Color2>Support</Color2>
+	</Furniture>
+	<Furniture Name="Small Heater">
+		<Name>Kleine verwarmer</Name>
+		<Description>Kleine verwarmer voor uw basis kantoor behoeften</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Ceiling Fan">
+		<Name>Plafond ventilator</Name>
+		<Description>Ventilator aan het plafond, Ziet er niet alleen cool uit maar koelt ook je kamer! Kan geluidsoverlast veroorzaken</Description>
+		<Color1>Base</Color1>
+		<Color2>Blades</Color2>
+	</Furniture>
+	<Furniture Name="Radiator">
+		<Name>Verwarming</Name>
+		<Description>Werkt op dure stadsverwarming, maar is veel effectiever dan een kleine kachel.</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Ventilation">
+		<Name>Ventilator</Name>
+		<Description>Kleine ventilator pakt lucht vanaf de andere kant van de muur</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Central Heating">
+		<Name>Centrale verwarming</Name>
+		<Description>Industriële strengt centrale verwarming verwarmt gehele gebouwen. Optimaal verwarmig voor 375 m^2.</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="AC Unit">
+		<Name>Air Conditioner</Name>
+		<Description>Industriële strengt centrale verwarming verwarmt gehele gebouwen. Moet bovengronds geplaatst worden. Optimaal verwarmig voor 375 m^2.</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Industrial ventilation">
+		<Name>Industriële ventilator</Name>
+		<Description>Deze fan is voor het verkoelen van server ruimtes. Niet voor mensen</Description>
+		<Color1>Base</Color1>
+		<Color2>Blades</Color2>
+	</Furniture>
+	<Furniture Name="Old Computer">
+		<Name>Oude Computer</Name>
+		<Description>Meer pixels dan wat je kan tellen met 1 hand!</Description>
+		<Color1>Casing</Color1>
+		<Color2>Keys</Color2>
+	</Furniture>
+	<Furniture Name="90s Computer">
+		<Name>90s Computer</Name>
+		<Description></Description>
+		<Color1>Casing</Color1>
+		<Color2>Monitor</Color2>
+		<Color3>Keys</Color3>
+	</Furniture>
+	<Furniture Name="Laptop">
+		<Name>Laptop</Name>
+		<Description></Description>
+		<Color1>Casing</Color1>
+		<Color2>Keys</Color2>
+	</Furniture>
+	<Furniture Name="Modern Computer">
+		<Name>Moderne Computer</Name>
+		<Description>Moderne computer voor al uw moderne computer behoeften</Description>
+		<Color1>Base</Color1>
+		<Color2>Keys</Color2>
+	</Furniture>
+	<Furniture Name="HoloComputer">
+		<Name>HoloComputer</Name>
+		<Description>Welkom in de toekomst! Waar alles een klein beetje gemakkelijker is</Description>
+		<Color1>Hologram</Color1>
+	</Furniture>
+	<Furniture Name="Lamp">
+		<Name>Lamp</Name>
+		<Description>Ben zeker dat je medewerkers iets kunnen zien als het laat is of als je gehinderd word met het plaatsen van ramen</Description>
+		<Color1>Shade</Color1>
+		<Color3>Lighting</Color3>
+	</Furniture>
+	<Furniture Name="Wall Lamp">
+		<Name>Muur lamp</Name>
+		<Description></Description>
+	</Furniture>
+	<Furniture Name="Desk Lamp">
+		<Name>Bureau lamp</Name>
+		<Description>Voor gelokaliseerde verlichting verbeteringen</Description>
+		<Color1>Base</Color1>
+		<Color3>Lighting</Color3>
+	</Furniture>
+	<Furniture Name="Floor Lamp">
+		<Name>Vloer Lamp</Name>
+		<Description>Maakt licht, maar staat ook in de weg</Description>
+		<Color1>Shade</Color1>
+		<Color2>Support</Color2>
+	</Furniture>
+	<Furniture Name="Fluorescent lamp">
+		<Name>TL lamp</Name>
+		<Description>Perfect voor het beschijnen van donkere ruimes met weinig onderhoud, niet goed voor iets anders.</Description>
+		<Color1>Shade</Color1>
+		<Color3>Lighting</Color3>
+	</Furniture>
+	<Furniture Name="Outdoor Lamp">
+		<Name>Buiten Lamp</Name>
+		<Description>Gezellige lamp voor al uw vermijden-struikelen-in-het-donker-buiten-in-nacht behoeften!</Description>
+		<Color1>Base</Color1>
+		<Color3>Lighting</Color3>
+	</Furniture>
+	<Furniture Name="Fridge">
+		<Name>Koelkast</Name>
+		<Description>Eten machine</Description>
+	</Furniture>
+	<Furniture Name="Instant Coffee">
+		<Name>Dringend Koffie</Name>
+		<Description>U kunt Genieten van enkele bruine poeder in warm water en ik denk dat je je minder vermoeid voelt op een bepaald punt?</Description>
+		<Color1>Pot</Color1>
+	</Furniture>
+	<Furniture Name="Coffee">
+		<Name>Koffie</Name>
+		<Description>Uw standaard gemalen koffie machine</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Espresso Machine">
+		<Name>Espresso Machine</Name>
+		<Description>Levert hoge kwaliteit koffie door luid te ijn en door het verbruiken van water en electriciteit en onderhoud</Description>
+		<Color1>Base</Color1>
+		<Color2>Pot</Color2>
+	</Furniture>
+	<Furniture Name="Toilet">
+		<Name>Toilet</Name>
+		<Description>Poep machine</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Painting">
+		<Name>Schilderij</Name>
+		<Description>Een prachtig schilderij om leven in het kantoor te blazen</Description>
+		<Color1>Frame</Color1>
+	</Furniture>
+	<Furniture Name="TV">
+		<Name>TV</Name>
+		<Description></Description>
+		<Color1>Frame</Color1>
+	</Furniture>
+	<Furniture Name="Bookshelf">
+		<Name>Boekenkast</Name>
+		<Description>Compleet met boeken!</Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Reception desk">
+		<Name>Receptie bureau</Name>
+		<Description></Description>
+		<Color1>Base</Color1>
+	</Furniture>
+	<Furniture Name="Floor Plant">
+		<Name>Vloer Plant</Name>
+		<Description>Een charmante vloer plant</Description>
+		<Color1>Pot</Color1>
+	</Furniture>
+	<Furniture Name="Table Plant">
+		<Name>Tafel Plant</Name>
+		<Description>Een boom voor op je tafel</Description>
+		<Color1>Pot</Color1>
+	</Furniture>
+	<Furniture Name="Big Plant">
+		<Name>Grote Plant</Name>
+		<Description>Neemt veel ruimte in beslag, maar werknemers zijn ermee eens omdat het er leuk uitziet</Description>
+		<Color1>Pot</Color1>
+	</Furniture>
+	<Furniture Name="Small tree">
+		<Name>Kleine boom</Name>
+		<Description>Plaats het in vreemde hoeken zodat het meer gevarieerd lijkt. Serieus.</Description>
+		<Color1>Pot</Color1>
+	</Furniture>
+	<Furniture Name="Small pine tree">
+		<Name>Kleine dennenboom</Name>
+		<Description></Description>
+		<Color1>Pot</Color1>
+	</Furniture>
+	<Furniture Name="Clock">
+		<Name>Klok</Name>
+		<Description>Tijd machine!(Niet een echte tijdmachine)</Description>
+		<Color1>Background</Color1>
+		<Color2>Frame</Color2>
+	</Furniture>
+	<Furniture Name="Small Server">
+		<Name>Kleine server</Name>
+		<Description>Een normale computer, maar met meer internet</Description>
+		<Color1>Casing</Color1>
+	</Furniture>
+	<Furniture Name="Medium Server">
+		<Name>Middelmatige Server</Name>
+		<Description>Net als een kleine server, maar net groter</Description>
+		<Color1>Casing</Color1>
+	</Furniture>
+	<Furniture Name="Tower Server">
+		<Name>Toren Server</Name>
+		<Description>Een hoge performance(Niet een echte toren)</Description>
+		<Color1>Casing</Color1>
+		<Color2>Lighting</Color2>
+	</Furniture>
+	<Furniture Name="Server Rack">
+		<Name>Server Rek</Name>
+		<Description>Als een computer niet genoeg is</Description>
+		<Color1>Casing</Color1>
+		<Color2>Support</Color2>
+	</Furniture>
+	<Furniture Name="Phone">
+		<Name>Telefoon</Name>
+		<Description>Wie ga je bellen? Support!</Description>
+		<Color1>Base</Color1>
+		<Color2>Handle</Color2>
+	</Furniture>
+	<Furniture Name="Drawing Tablet">
+		<Name>Teken Tablet</Name>
+		<Description>Zo veel gemakkelijker dan handmatig invoeren van pixel coördinaten</Description>
+		<Color1>Base</Color1>
+		<Color2>Pad</Color2>
+	</Furniture>
+	<Furniture Name="Calculator">
+		<Name>Rekenmachine</Name>
+		<Description>Rekenmachine,  de beste vriend van een programmeur</Description>
+		<Color1>Base</Color1>
+		<Color2>Keys</Color2>
+	</Furniture>
+	<Furniture Name="Inbox">
+		<Name>Inbox</Name>
+		<Description>Zorg ervoor dat uw medewerkers georganiseerd blijven, vooral handig voor mensen die nog niet van e-mail hebben gehoord</Description>
+		<Color1>Box</Color1>
+	</Furniture>
+	<Segment Name="Standard door">
+		<Name>Standaard deur</Name>
+		<Description>Het is een deur...</Description>
+	</Segment>
+	<Segment Name="Sliding glass door">
+		<Name>Glazen schuifdeur</Name>
+		<Description>Deur die tevens fungeert als een raam</Description>
+	</Segment>
+	<Segment Name="Double doors">
+		<Name>Dubbele deuren</Name>
+		<Description>Meer deuren per aankoop</Description>
+	</Segment>
+	<Segment Name="Double glass door">
+		<Name>Dubbele glazen deur</Name>
+		<Description></Description>
+	</Segment>
+	<Segment Name="Small window">
+		<Name>Kleine raam</Name>
+		<Description>Volkomen nutteloos als het geplaatst tussen de kamers</Description>
+	</Segment>
+	<Segment Name="Large window">
+		<Name>Grote raam</Name>
+		<Description>Als je nog meer ramen wilt</Description>
+	</Segment>
+	<Segment Name="Wide window">
+		<Name>Brede raam</Name>
+		<Description>Voor de breed scherm ervaring</Description>
+	</Segment>
+	<Segment Name="Arched gate">
+		<Name>Gebogen poort</Name>
+		<Description></Description>
+	</Segment>
+	<Segment Name="Open gate">
+		<Name>Open poort</Name>
+		<Description></Description>
+	</Segment>
+</Furniture>
