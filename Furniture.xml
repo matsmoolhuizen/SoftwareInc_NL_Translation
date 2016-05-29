@@ -1,7 +1,7 @@
 <Furniture>
 	<Furniture Name="Elevator">
 		<Name>Lift</Name>
-		<Description>Plaatsen liften op elkaar om ze te connecten</Description>
+		<Description>Plaats liften op elkaar om ze te verbinden</Description>
 	</Furniture>
 	<Furniture Name="Table">
 		<Name>Tafel</Name>
@@ -25,7 +25,7 @@
 	</Furniture>
 	<Furniture Name="Cheap Chair">
 		<Name>Goedkope stoel</Name>
-		<Description>Niet confortable, plastic stoel</Description>
+		<Description>Niet comfortabele, plastic stoel</Description>
 		<Color1>Seat</Color1>
 		<Color2>Support</Color2>
 	</Furniture>
@@ -36,8 +36,8 @@
 		<Color2>Back</Color2>
 		<Color3>Support</Color3>
 	</Furniture>
-	<Furniture Name="Waiting Chairs">
-		<Name>Wacht stoelen</Name>
+	<Furniture Name="Waiting Chair">
+		<Name>Wacht stoel</Name>
 		<Description></Description>
 		<Color1>Frame</Color1>
 		<Color2>Seat</Color2>
@@ -76,17 +76,17 @@
 	</Furniture>
 	<Furniture Name="Central Heating">
 		<Name>Centrale verwarming</Name>
-		<Description>Industriële strengt centrale verwarming verwarmt gehele gebouwen. Optimaal verwarmig voor 375 m^2.</Description>
+		<Description>Industriële kracht verwarming verwarmt gehele gebouwen. Optimaal verwarmig voor 375 m^2.</Description>
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="AC Unit">
 		<Name>Air Conditioner</Name>
-		<Description>Industriële strengt centrale verwarming verwarmt gehele gebouwen. Moet bovengronds geplaatst worden. Optimaal verwarmig voor 375 m^2.</Description>
+		<Description>Industriële kracht verwarming verwarmt gehele gebouwen. Moet bovengronds geplaatst worden. Optimaal verwarmig voor 375 m^2.</Description>
 		<Color1>Base</Color1>
 	</Furniture>
 	<Furniture Name="Industrial ventilation">
 		<Name>Industriële ventilator</Name>
-		<Description>Deze fan is voor het verkoelen van server ruimtes. Niet voor mensen</Description>
+		<Description>Deze ventilator is voor het koelen van server ruimtes. Niet voor mensen</Description>
 		<Color1>Base</Color1>
 		<Color2>Blades</Color2>
 	</Furniture>
@@ -122,7 +122,7 @@
 	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lamp</Name>
-		<Description>Ben zeker dat je medewerkers iets kunnen zien als het laat is of als je gehinderd word met het plaatsen van ramen</Description>
+		<Description>Dan ben zeker dat je medewerkers iets kunnen zien als het laat is of als je gehinderd word met het plaatsen van ramen</Description>
 		<Color1>Shade</Color1>
 		<Color3>Lighting</Color3>
 	</Furniture>
@@ -132,7 +132,7 @@
 	</Furniture>
 	<Furniture Name="Desk Lamp">
 		<Name>Bureau lamp</Name>
-		<Description>Voor gelokaliseerde verlichting verbeteringen</Description>
+		<Description>Voor gelokaliseerde lichtverbeteringen</Description>
 		<Color1>Base</Color1>
 		<Color3>Lighting</Color3>
 	</Furniture>
@@ -150,17 +150,17 @@
 	</Furniture>
 	<Furniture Name="Outdoor Lamp">
 		<Name>Buiten Lamp</Name>
-		<Description>Gezellige lamp voor al uw vermijden-struikelen-in-het-donker-buiten-in-nacht behoeften!</Description>
+		<Description>Gezellige lamp voor al uw vermijd-het-struikelen-in-het-donker-buiten-in-de-nacht behoeften!</Description>
 		<Color1>Base</Color1>
 		<Color3>Lighting</Color3>
 	</Furniture>
 	<Furniture Name="Fridge">
 		<Name>Koelkast</Name>
-		<Description>Eten machine</Description>
+		<Description>Genereert voedsel voor koks om te koken.</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
-		<Name>Dringend Koffie</Name>
-		<Description>U kunt Genieten van enkele bruine poeder in warm water en ik denk dat je je minder vermoeid voelt op een bepaald punt?</Description>
+		<Name>Dringende Koffie</Name>
+		<Description>U kunt genieten van enkele bruine poeder in warm water en ik denk dat je je minder vermoeid voelt op een bepaald punt dan?</Description>
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Coffee">
@@ -170,7 +170,7 @@
 	</Furniture>
 	<Furniture Name="Espresso Machine">
 		<Name>Espresso Machine</Name>
-		<Description>Levert hoge kwaliteit koffie door luid te ijn en door het verbruiken van water en electriciteit en onderhoud</Description>
+		<Description>Levert hoge kwaliteit koffie door luid te ijn en door het verbruiken van water, electriciteit en onderhoud</Description>
 		<Color1>Base</Color1>
 		<Color2>Pot</Color2>
 	</Furniture>
@@ -181,7 +181,7 @@
 	</Furniture>
 	<Furniture Name="Painting">
 		<Name>Schilderij</Name>
-		<Description>Een prachtig schilderij om leven in het kantoor te blazen</Description>
+		<Description>Een prachtig schilderij om leven in het kantoor op te blazen</Description>
 		<Color1>Frame</Color1>
 	</Furniture>
 	<Furniture Name="TV">
@@ -242,7 +242,7 @@
 	</Furniture>
 	<Furniture Name="Tower Server">
 		<Name>Toren Server</Name>
-		<Description>Een hoge performance(Niet een echte toren)</Description>
+		<Description>Een hoge prestatie toren(Niet een echte toren)</Description>
 		<Color1>Casing</Color1>
 		<Color2>Lighting</Color2>
 	</Furniture>
@@ -260,13 +260,13 @@
 	</Furniture>
 	<Furniture Name="Drawing Tablet">
 		<Name>Teken Tablet</Name>
-		<Description>Zo veel gemakkelijker dan handmatig invoeren van pixel coördinaten</Description>
+		<Description>Zo veel gemakkelijker dan het handmatig invoeren van pixel coördinaten</Description>
 		<Color1>Base</Color1>
 		<Color2>Pad</Color2>
 	</Furniture>
 	<Furniture Name="Calculator">
 		<Name>Rekenmachine</Name>
-		<Description>Rekenmachine,  de beste vriend van een programmeur</Description>
+		<Description>Rekenmachine, de beste vriend van een programmeur</Description>
 		<Color1>Base</Color1>
 		<Color2>Keys</Color2>
 	</Furniture>
@@ -281,7 +281,7 @@
 	</Segment>
 	<Segment Name="Sliding glass door">
 		<Name>Glazen schuifdeur</Name>
-		<Description>Deur die tevens fungeert als een raam</Description>
+		<Description>Deur die tevens functioneert als een raam</Description>
 	</Segment>
 	<Segment Name="Double doors">
 		<Name>Dubbele deuren</Name>
@@ -293,7 +293,7 @@
 	</Segment>
 	<Segment Name="Small window">
 		<Name>Kleine raam</Name>
-		<Description>Volkomen nutteloos als het geplaatst tussen de kamers</Description>
+		<Description>Volkomen nutteloos als het geplaatst wordt tussen de kamers</Description>
 	</Segment>
 	<Segment Name="Large window">
 		<Name>Grote raam</Name>
