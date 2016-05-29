@@ -80,84 +80,84 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		<Description>Program that allows you to handle 2 dimensional arrays of color information</Description>
 		<Features>
 			<Feature Name="Image rendering">
-				<Name>Image rendering</Name>
-				<Description>Actually display an image on the screen</Description>
+				<Name>Afbeeldingen weergeven</Name>
+				<Description>Afbeeldingen tonen op het scherm</Description>
 			</Feature>
 			<Feature Name="Pixel manipulation">
-				<Name>Pixel manipulation</Name>
+				<Name>Pixel manipulatie</Name>
 			</Feature>
 			<Feature Name="Advanced brushes">
 				<Name>Advanced brushes</Name>
 			</Feature>
 			<Feature Name="Image effects">
-				<Name>Image effects</Name>
-				<Description>Needs more swirl</Description>
+				<Name>Afbeelding effecten</Name>
+				<!--<Description>Needs more swirl</Description>-->
 			</Feature>
 			<Feature Name="Cinematic filter">
 				<Name>Cinematic filter</Name>
-				<Description>Instant professionalism</Description>
+				<Description>Direct professionalisme</Description>
 			</Feature>
 			<Feature Name="Image compression">
-				<Name>Image compression</Name>
+				<Name>Afbeeldingen samendrukken</Name>
 			</Feature>
 			<Feature Name="Video editing">
-				<Name>Video editing</Name>
+				<Name>Video bewerking</Name>
 			</Feature>
 			<Feature Name="Video codec">
 				<Name>Video codec</Name>
 			</Feature>
 			<Feature Name="Stock library">
-				<Name>Stock library</Name>
+<!--???-->		<Name>Stock library</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="3D Editor">
-		<Name>3D Editor</Name>
+		<Name>3D Bewerker</Name>
 		<Description>Points in space, basically</Description>
 		<Features>
 			<Feature Name="Vertex editing">
-				<Name>Vertex editing</Name>
-				<Description>Move points in space around on the screen</Description>
+				<Name>Punten bewerker</Name>
+				<Description>Beweeg punten over het scherm</Description>
 			</Feature>
 			<Feature Name="Rendering">
-				<Name>Rendering</Name>
-				<Description>Process the points into a picture</Description>
+				<Name>Weergave</Name>
+				<Description>Geef punten weer in een afbeelding</Description>
 			</Feature>
 			<Feature Name="Animation">
-				<Name>Animation</Name>
-				<Description>Make the points move themselves</Description>
+				<Name>Anematie's</Name>
+				<Description>Laat de punten bewegen</Description>
 			</Feature>
 			<Feature Name="Sculpting">
-				<Name>Sculpting</Name>
-				<Description>Pretend the points are clay</Description>
+				<Name>Beeldhouwen</Name>
+				<Description>Doe alsof de punten klei zijn</Description>
 			</Feature>
 			<Feature Name="Voxel sculpting">
-				<Name>Voxel sculpting</Name>
-				<Description>Everything is a point</Description>
+				<Name>Voxel beeldhouwen</Name>
+				<Description>Alles is een punt</Description>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Physics</Name>
-				<Description>Make the points interact</Description>
+				<Name>Fysica</Name>
+				<Description>Laat de punten op elkaar in werken</Description>
 			</Feature>
 			<Feature Name="Realistic hair">
-				<Name>Realistic hair</Name>
-				<Description>Make lines between the points</Description>
+				<Name>Realistisch haar</Name>
+				<Description>Maak lijnen tussen punten</Description>
 			</Feature>
 			<Feature Name="Particles">
-				<Name>Particles</Name>
-				<Description>Spray points all over the place</Description>
+				<Name>Deeltjes</Name>
+				<Description>Spuit overal puntjes</Description>
 			</Feature>
 			<Feature Name="Liquid simulation">
-				<Name>Liquid simulation</Name>
-				<Description>Spill points all over the place</Description>
+				<Name>Vloeibare simulatie</Name>
+				<Description>Mors overal puntjes</Description>
 			</Feature>
-			<Feature Name="PBR">
+<!--Afkorting van woord-->	<Feature Name="PBR"> <!--Misschien veranderen naar wat het in het NL is-->
 				<Name>PBR</Name>
-				<Description>Physically Based Rendering simulates photons reacting with the points</Description>
+				<Description>Physically Based Rendering simuleert lichtdeeltjes die reageren met de punten</Description>
 			</Feature>
 			<Feature Name="Distributed rendering">
-				<Name>Distributed rendering</Name>
+				<Name>Distributed weergave</Name>
 				<Description>Process the points into a picture on many computers at once</Description>
 			</Feature>
 		</Features>
