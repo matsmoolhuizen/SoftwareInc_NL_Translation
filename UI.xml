@@ -239,8 +239,8 @@
 		<Item Name="NoIP">Niet geselecteerd</Item>
 		<Item Name="SelectIPButton">Orginele IP</Item>
 		<Item Name="IPButtonTip">Maak dit product een vervolg op een ander product die u bezit</Item>
-		<Item Name="NameGenTip">Klik hier om een random naam te genereren</Item>
-		<Item Name="OpenSourceTip">Release uw product gratis om populariteit te verkrijgen en zet spanning op je concurrenten</Item>
+		<Item Name="NameGenTip">Klik hier om een willekeurige naam te genereren</Item>
+		<Item Name="OpenSourceTip">Geef uw product gratis vrij om populariteit te verkrijgen en zet spanning op je concurrenten</Item>
 		<Item Name="InHouseTip">Houd dit product voor je zelf, zodat concurrenten er geen voordeel aan hebben</Item>
 		<Item Name="StandardProductName">Product naam</Item>
 		<Item Name="DevTime1">Minder dan één jaar</Item>
@@ -274,10 +274,10 @@
 	</DesignWindow>
 	<AutoWindow>
 		<Item Name="Project management">Project beheer</Item>
-		<Item Name="ProjectManagementHint">Om dit aan te zetten, moet de teamleider moet een cursus project management hebben genomen door middel van het onderwijsprogramma</Item>
+		<Item Name="ProjectManagementHint">Om dit aan te zetten, moet de teamleider een cursus project beheer hebben genomen door middel van het onderwijsprogramma</Item>
 		<Item Name="HR management">HR management</Item>
-		<Item Name="HRManagementHint">Om dit aan te zetten, moet de teamleider moet een cursus HR management hebben genomen door middel van het onderwijsprogramma</Item>
-		<Item Name="HR management">HR management</Item>
+		<Item Name="HRManagementHint">Om dit aan te zetten, moet de teamleider een cursus HR beheer hebben genomen door middel van het onderwijsprogramma</Item>
+		<Item Name="HR management">HR beheer</Item>
 		<Item Name="Dev budget">Ontwikkel budget</Item>
 		<Item Name="Marketing budget">Marketing budget</Item>
 		<Item Name="Pre-marketing">Pre-marketing</Item>
@@ -305,8 +305,8 @@
 	</HireWindows>
 	<EducationWindow>
 		<Item Name="Start education">Start onderwijs</Item>
-		<Item Name="ProjectCourseDesc">Project management allows a leader to take over a development cycle by automatically designing new products and delegating work to specific teams.</Item>
-		<Item Name="HRCourseDesc">HR management allows a leader to take over HR responsibilities, like hiring, firing, settling disputes, raises and education.</Item>
+		<Item Name="ProjectCourseDesc">Project beheer staat en leider toe om de ontwikkelingscyclus overtenemen door automatisch voor nieuwe ontwerpen, voor nieuwe producten en voor het delegeren van werk voor bepaalde teams te zorgen.</Item>
+		<Item Name="HRCourseDesc">HR beheer staat een leider toe om mensen te huren,ontslagen,trainen en om mensen bepaalde jobs laten nemen.</Item>
 	</EducationWindow>
 	<DistributionWindow>
 		<Item Name="Make Deal">Maak transactie</Item>
@@ -324,7 +324,7 @@
 	</WageWindow>
 	<LoanWindow>
 		<Item Name="Amount">Hoeveelheid</Item>
-		<Item Name="Interest">Intresse</Item>
+		<Item Name="Interest">Interest</Item>
 		<Item Name="Period">Periode</Item>
 		<Item Name="Current loans">Huidige leningen</Item>
 		<Item Name="Take loan">Neem lening</Item>
@@ -333,19 +333,19 @@
 		<Item Name="Deposit">Storten</Item>
 		<Item Name="Withdraw">Ontvangen</Item>
 		<Item Name="InsuranceFunds">Fondsen op de verzekering rekening</Item>
-		<Item Name="HealthInsurance">Ziektekostenverzekering:(Trekt jongere medewerkers)</Item>
-		<Item Name="LifeInsurance">Levensverzekering:(Trekt tussenliggende leeftijd medewerkers)</Item>
-		<Item Name="PensionDesc">Pensioen:(Trekt oudere medewerkers)</Item>
+		<Item Name="HealthInsurance">Ziektekostenverzekering:(Trekt jongere medewerkers aan)</Item>
+		<Item Name="LifeInsurance">Levensverzekering:(Trekt volwassenen medewerkers aan)</Item>
+		<Item Name="PensionDesc">Pensioen:(Trekt oudere medewerkers aan)</Item>
 		<Item Name="PerEmployee">Per werknemer</Item>
 	</InsuranceWindow>
 	<StockWindow>
 		<Item Name="SharesIn">Aandelen in bedrijf:</Item>
-		<Item Name="SharesOut">Owned shares:</Item>
+		<Item Name="SharesOut">Bezitte aandelen:</Item>
 	</StockWindow>
 	<StaffWindow>
 		<Item Name="Permanent">Permanent</Item>
-		<Item Name="Temporary">Temporary</Item>
-		<Item Name="Call janitor">Call maintenance</Item>
+		<Item Name="Temporary">Tijdelij</Item>
+		<Item Name="Call janitor">Bel onderhoud</Item>
 		<Item Name="Call cleaning">Call cleaning</Item>
 		<Item Name="Call IT-support">Call IT-support</Item>
 		<Item Name="Hire janitor">Hire maintenance</Item>
