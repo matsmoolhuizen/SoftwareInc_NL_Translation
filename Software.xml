@@ -77,7 +77,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="2D Editor">
 		<Name>2D Editor</Name>
-		<Description>Program that allows you to handle 2 dimensional arrays of color information</Description>
+		<Description>Programma dat u in staat stelt om 2D reeksen van kleureninformatie te maken</Description>
 		<Features>
 			<Feature Name="Image rendering">
 				<Name>Afbeeldingen weergeven</Name>
@@ -107,14 +107,14 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Name>Video codec</Name>
 			</Feature>
 			<Feature Name="Stock library">
-<!--???-->		<Name>Stock library</Name>
+<!--???-->		<Name>Stock Bibliotheek</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="3D Editor">
 		<Name>3D Bewerker</Name>
-		<Description>Points in space, basically</Description>
+		<Description>Punten in de ruimte, eigenlijky</Description>
 		<Features>
 			<Feature Name="Vertex editing">
 				<Name>Punten bewerker</Name>
