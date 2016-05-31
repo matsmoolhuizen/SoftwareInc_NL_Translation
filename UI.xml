@@ -344,7 +344,7 @@
 	</StockWindow>
 	<StaffWindow>
 		<Item Name="Permanent">Permanent</Item>
-		<Item Name="Temporary">Tijdelij</Item>
+		<Item Name="Temporary">Tijdelijk</Item>
 		<Item Name="Call janitor">Bel onderhoud</Item>
 		<Item Name="Call cleaning">Call cleaning</Item>
 		<Item Name="Call IT-support">Call IT-support</Item>
