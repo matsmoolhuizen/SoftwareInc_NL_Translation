@@ -75,7 +75,7 @@
 		<Item Name="MainInsurance">Verzekeringsbeleid</Item>
 		<Item Name="MainInsuranceDesc">Stop geld in je verzekering om betere werknemers aan te trekken en maak geld van intresten</Item>
 		<Item Name="MainStock">Aandelen</Item>
-		<Item Name="MainStockDesc">Koop en verkoop aandelen, er valt hier een hoop geld te verdienen/Item>
+		<Item Name="MainStockDesc">Koop en verkoop aandelen, er valt hier een hoop geld te verdienen</Item>
 		<Item Name="MainLoan">Leningen</Item>
 		<Item Name="MainLoanDesc">Als je in de problemen raakt, wilt u misschien een lening te nemen</Item>
 		<Item Name="MainRelease">Alle software</Item>
