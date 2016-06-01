@@ -352,8 +352,7 @@
 		<Item Name="Hire cleaning">Hire cleaning</Item>
 		<Item Name="PerHour"> per hour</Item>
 		<Item Name="PerMonth"> per month</Item>
-		<Item Name="ITPayment">{0} up front
-Up to {0} per repair</Item>
+		<Item Name="ITPayment"> </Item>
 		<Item Name="SharesIn">Shares in company:</Item>
 	</StaffWindow>
 	<Newspaper>
