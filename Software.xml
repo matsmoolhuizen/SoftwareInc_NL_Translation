@@ -192,8 +192,6 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			<Feature Name="Audio compression">
 				<Name>Audio compression</Name>
 			</Feature>
-		</Features>
-		<Categories></Categories>
 	</Software>
 	<Software Name="Game Engine">
 		<Name>Game Engine</Name>
