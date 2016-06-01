@@ -106,7 +106,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Name>Video codec</Name>
 			</Feature>
 			<Feature Name="Stock library">
-<!--???-->		<Name>Stock Bibliotheek</Name>
+       		<Name>Stock Bibliotheek</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
@@ -168,12 +168,15 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		<Features>
 			<Feature Name="Audio playback">
 				<Name>Audio playback</Name>
+
 			</Feature>
 			<Feature Name="Recording">
 				<Name>Recording</Name>
+
 			</Feature>
 			<Feature Name="Music editor">
 				<Name>Music editor</Name>
+
 			</Feature>
 			<Feature Name="Virtual instruments">
 				<Name>Virtual instruments</Name>
@@ -181,9 +184,11 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Sound library">
 				<Name>Sound library</Name>
+
 			</Feature>
 			<Feature Name="Instrument library">
 				<Name>Instrument library</Name>
+
 			</Feature>
 			<Feature Name="Autotune">
 				<Name>Autotune</Name>
@@ -191,6 +196,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Audio compression">
 				<Name>Audio compression</Name>
+
 			</Feature>
 	</Software>
 	<Software Name="Game Engine">
@@ -352,7 +358,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Office Software">
 		<Name>Office Software</Name>
-		<Description></Description>
+
 		<Features>
 			<Feature Name="Word processor">
 				<Name>Word processor</Name>
@@ -507,7 +513,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Logistics Application">
 		<Name>Logistics Application</Name>
-		<Description></Description>
+
 		<Features>
 			<Feature Name="Commandline">
 				<Name>Commandline</Name>
@@ -526,7 +532,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Website">
 		<Name>Website</Name>
-		<Description></Description>
+
 		<Features>
 			<Feature Name="Static pages">
 				<Name>Static pages</Name>
@@ -548,7 +554,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Game Assets">
 		<Name>Game Assets</Name>
-		<Description></Description>
+
 		<Features>
 			<Feature Name="2D art">
 				<Name>2D art</Name>
@@ -573,7 +579,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Embedded System">
 		<Name>Embedded System</Name>
-		<Description></Description>
+
 		<Features>
 			<Feature Name="Clock">
 				<Name>Clock</Name>
@@ -601,4 +607,3 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		<Description>Use Quality Assurance to release a more stable product or fix the bugs as your customers irritably stumble into them</Description>
 	</Feature>
 </Software>
-
