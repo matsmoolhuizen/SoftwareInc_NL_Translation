@@ -79,8 +79,9 @@ Browse the contracts now and accept one you think sounds fair.</Message>
 	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
 	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
 	<Message id="CUSTOMIZATION4">And a gender.</Message>
-	<Message id="CUSTOMIZATION5">These buttons allow you to pick the colors of your founder and his/her clothes.</Message>
-	<Message id="CUSTOMIZATION6">These buttons will cycle through different hair styles, faces, pants and jackets for your founder.</Message>
+	<Message id="CUSTOMIZATION5">You can use these buttons to choose an aspect of your founder's appearance that you want to change.
+	
+You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder.</Message>
 	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
 
 You can choose two traits, which will affect your founder's behavior(leadership, ability to learn and laziness) and inter-office relationships.</Message>
@@ -158,9 +159,7 @@ Timing is everything when you're just starting out!</Message>
 
 Take special note of consumer reach. Consumer reach is how many people can potentially purchase the product as of right now, this number might decrease or increase as you develop the product. For software that depend on operating systems, it will be limited by how many people are currently using the operating system and it's successors.
 
-The suggested team size is for both the design and alpha phase of development, where the design phase is worked on by designers and the alpha phase should be split between programmers and artists.
-
-Having more than the suggested employees on the development teams will not increase development speed, but will in some cases reduce it instead.</Message>
+Having more than the suggested amount of employees on the development teams will not increase development speed, but might actually reduce it instead.</Message>
 	<Message id="DESIGN WORK1">Design work items are worked on by designers or employees in "Any role" until you promote the work item to alpha.
 
 Press "continue" to advance the tutorial.</Message>
