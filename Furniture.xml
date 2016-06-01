@@ -3,6 +3,10 @@
 		<Name>Lift</Name>
 		<Description>Plaats liften op elkaar om ze te verbinden</Description>
 	</Furniture>
+	<Furniture Name="Stairs">
+		<Name>Trappen</Name>
+		<Description></Description>
+	</Furniture>
 	<Furniture Name="Table">
 		<Name>Tafel</Name>
 		<Description>Plaats spullen erop en stoelen er omheen</Description>
@@ -120,6 +124,10 @@
 		<Description>Welkom in de toekomst! Waar alles een klein beetje gemakkelijker is</Description>
 		<Color1>Hologram</Color1>
 	</Furniture>
+		<Furniture Name="Cubicle wall">
+		<Name>Cabine</Name>
+		<Description>Plaats deze muren slim om het geluid rond werkplaatsen te verminderen. Noteer dat deze muren de werknemers een eenzaam gevoel geven.</Description>
+	</Furniture>
 	<Furniture Name="Lamp">
 		<Name>Lamp</Name>
 		<Description>Dan ben zeker dat je medewerkers iets kunnen zien als het laat is of als je gehinderd word met het plaatsen van ramen</Description>
@@ -154,9 +162,23 @@
 		<Color1>Base</Color1>
 		<Color3>Lighting</Color3>
 	</Furniture>
+		<Furniture Name="Vending Machine">
+		<Name>Drank Automaat</Name>
+		<Description>Het maakt drank.</Description>
+	</Furniture>
 	<Furniture Name="Fridge">
 		<Name>Koelkast</Name>
 		<Description>Genereert voedsel voor koks om te koken.</Description>
+	</Furniture>
+	<Furniture Name="Stove">
+		<Name>Fornuis</Name>
+		<Description>Koks gaan het gebruiken om eten in op te warmen. Maar één kok per fornuis.</Description>
+		<Color1>Base</Color1>
+		<Color2>Top</Color2>
+	</Furniture>
+	<Furniture Name="Serving Tray">
+		<Name>Dienblad</Name>
+		<Description>Koks zullen hier het afgemaakte eten leggen.</Description>
 	</Furniture>
 	<Furniture Name="Instant Coffee">
 		<Name>Dringende Koffie</Name>
@@ -178,6 +200,12 @@
 		<Name>Toilet</Name>
 		<Description>Poep machine</Description>
 		<Color1>Base</Color1>
+	</Furniture>
+		<Furniture Name="Watercooler">
+		<Name>Waterkoeler</Name>
+		<Description>Een plaats voor werknemers om te socialiseren.</Description>
+		<Color1>Shade</Color1>
+		<Color2>Support</Color2>
 	</Furniture>
 	<Furniture Name="Painting">
 		<Name>Schilderij</Name>
@@ -207,6 +235,11 @@
 	<Furniture Name="Table Plant">
 		<Name>Tafel Plant</Name>
 		<Description>Een boom voor op je tafel</Description>
+		<Color1>Pot</Color1>
+	</Furniture>
+		<Furniture Name="Table Cactus">
+		<Name>Tafel Cactus</Name>
+		<Description></Description>
 		<Color1>Pot</Color1>
 	</Furniture>
 	<Furniture Name="Big Plant">
@@ -312,3 +345,4 @@
 		<Description></Description>
 	</Segment>
 </Furniture>
+
