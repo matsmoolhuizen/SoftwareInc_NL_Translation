@@ -91,7 +91,6 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Image effects">
 				<Name>Afbeelding effecten</Name>
-				<!--<Description>Needs more swirl</Description>-->
 			</Feature>
 			<Feature Name="Cinematic filter">
 				<Name>Cinematic filter</Name>
@@ -152,7 +151,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Name>Vloeibare simulatie</Name>
 				<Description>Mors overal puntjes</Description>
 			</Feature>
-<!--Afkorting van woord-->	<Feature Name="PBR"> <!--Misschien veranderen naar wat het in het NL is-->
+				<Feature Name="PBR">
 				<Name>PBR</Name>
 				<Description>Physically Based Rendering simuleert lichtdeeltjes die reageren met de punten</Description>
 			</Feature>
