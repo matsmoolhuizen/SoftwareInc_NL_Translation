@@ -168,15 +168,12 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		<Features>
 			<Feature Name="Audio playback">
 				<Name>Audio playback</Name>
-
 			</Feature>
 			<Feature Name="Recording">
 				<Name>Recording</Name>
-
 			</Feature>
 			<Feature Name="Music editor">
 				<Name>Music editor</Name>
-
 			</Feature>
 			<Feature Name="Virtual instruments">
 				<Name>Virtual instruments</Name>
@@ -184,11 +181,9 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Sound library">
 				<Name>Sound library</Name>
-
 			</Feature>
 			<Feature Name="Instrument library">
 				<Name>Instrument library</Name>
-
 			</Feature>
 			<Feature Name="Autotune">
 				<Name>Autotune</Name>
@@ -196,7 +191,6 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Audio compression">
 				<Name>Audio compression</Name>
-
 			</Feature>
 	</Software>
 	<Software Name="Game Engine">
