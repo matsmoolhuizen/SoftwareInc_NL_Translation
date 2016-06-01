@@ -106,7 +106,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 				<Name>Video codec</Name>
 			</Feature>
 			<Feature Name="Stock library">
-       		<Name>Stock Bibliotheek</Name>
+				<Name>Stock Bibliotheek</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
