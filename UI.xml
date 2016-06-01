@@ -1514,5 +1514,75 @@ Are you sure you want to continue?</Item>
 		<Item Name="RotateRoomHint">Press {0} or {1} to rotate the buliding</Item>
 		<Item Name="Appx bandwidth">Appx bandwidth</Item>
 	</Alpha8.9>
+	<Alpha8.10>
+		<Item Name="Zoom">Zoom</Item>
+		<Item Name="Gamma">Gamma</Item>
+		<Item Name="CleaningBlocked">Something is blocking your cleaning staff from cleaning this room</Item>
+		<Item Name="Head">Head</Item>
+		<Item Name="Torso">Torso</Item>
+		<Item Name="Legs">Legs</Item>
+		<Item Name="Accessories">Accessories</Item>
+		<Item Name="Business Casual">Business Casual</Item>
+		<Item Name="Full Beard">Full Beard</Item>
+		<Item Name="Stubble">Stubble</Item>
+		<Item Name="Mens Blouse">Men's Blouse</Item>
+		<Item Name="Mens Pants">Men's Pants</Item>
+		<Item Name="Glasses">Glasses</Item>
+		<Item Name="Knot">Knot</Item>
+		<Item Name="Rouge">Rouge</Item>
+		<Item Name="Womens Blouse">Women's Blouse</Item>
+		<Item Name="Womens Pants">Women's Pants</Item>
+		<Item Name="HintTeamSizeEffectiveness">Putting more people on a project than needed does not necessarily make development faster and might actually decrease effectiveness</Item>
+		<Item Name="Womens Hoodie">Women's Hoodie</Item>
+		<Item Name="Mens Hoodie">Men's Hoodie</Item>
+		<Item Name="Womens Shirt">Women's Shirt</Item>
+		<Item Name="Mens Shirt">Men's Shirt</Item>
+		<Item Name="Womens T-Shirt">Women's T-Shirt</Item>
+		<Item Name="Mens T-Shirt">Men's T-Shirt</Item>
+		<Item Name="Long Skirt">Long Skirt</Item>
+		<Item Name="Short Skirt">Short Skirt</Item>
+		<Item Name="Trumpet Pants">Trumpet Pants</Item>
+		<Item Name="Cargo Shorts">Cargo Shorts</Item>
+		<Item Name="Mens Shorts">Men's Shorts</Item>
+		<Item Name="Trousers">Trousers</Item>
+		<Item Name="Long Curly Hair">Long Curly Hair</Item>
+		<Item Name="Long Hair">Long Hair</Item>
+		<Item Name="Semi-Long Hair">Semi-Long Hair</Item>
+		<Item Name="Afro">Afro</Item>
+		<Item Name="Hire Cook">Hire cook</Item>
+		<Item Name="Cook">Cook</Item>
+		<Item Name="Preparing food">Preparing food</Item>
+		<Item Name="Serving food">Serving food</Item>
+		<Item Name="Canteen">Canteen</Item>
+		<Item Name="NameChangeTitle">New name</Item>
+		<Item Name="NameChangePrompt">Employee name:</Item>
+		<Item Name="Change name">Change name</Item>
+		<Item Name="DeleteKeyHintHint">You can configure a keyboard shortcut to fire employees and destroy objects. The default is the DELETE key</Item>
+		<Item Name="SaveFailIOError">Failed saving game with error message:
+{0}</Item>
+		<Item Name="Currency short form">Currency short form</Item>
+		<Item Name="MillionPost">M</Item>
+		<Item Name="BillionPost">B</Item>
+		<Item Name="UpdateBlueprint">Update blueprint</Item>
+		<Item Name="SplitUnsupported">This split would result in unsupported rooms</Item>
+		<Item Name="ModActivateError">Failed activating mod. Check log for details.</Item>
+		<Item Name="HexColor">Hex</Item>
+		<Item Name="BlueprintDeleteConfirmation">Are you sure you want to delete the blueprint: {0}?</Item>
+		<Item Name="TeamDisbandConfirmation">Are you sure you want to disband the team: {0}?</Item>
+		<Item Name="Open console">Open console</Item>
+		<Item Name="Recommended designers">Recommended designers</Item>
+		<Item Name="Recommended programmers">Recommended programmers</Item>
+		<Item Name="Recommended artists">Recommended artists</Item>
+		<Item Name="LampTestHint">You can change lighting conditions in build mode in the bottom left corner below the categories.
+This will also allow you to see your lamps in action.</Item>
+		<Item Name="CookStoveWarning">A cook is unable to find a stove.
+Make sure you have one for each cook and at least one fridge and serving tray</Item>
+		<Item Name="ServerDelegateError">You can't redelegate a server process to the server it is already on</Item>
+		<Item Name="Cancel Deal">Cancel Deal</Item>
+		<Item Name="Make Deal">Make Deal</Item>
+		<Item Name="SteamUploadDirectoryError">Directoy does not exist: {0}</Item>
+		<Item Name="Meeting">Meeting</Item>
+		<Item Name="Function">Function</Item>
+	</Alpha8.10>
 </UI>
 
