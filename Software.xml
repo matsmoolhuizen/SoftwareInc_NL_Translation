@@ -11,22 +11,22 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
-				<Description>De Graphical User Interface maakt dat gebruikers in staat zijn om daadwerkelijk te visualiseren wat ze doen. Niet langer zullen ze gebonden zijn aan het invoeren van één regel tegelijk.</Description>
+				<Description>De Graphical User Interface gebruikers in staat om daadwerkelijk te visualiseren wat ze doen. Niet langer zullen ze gebonden aan het invoeren van één regel tegelijk.</Description>
 			</Feature>
 			<Feature Name="3D rendering">
 				<Name>3D weergave</Name>
 			</Feature>
 			<Feature Name="Input system">
 				<Name>invoersysteem</Name>
-				<Description>De gebruiker kan zo communiceren met het besturingssysteem</Description>
+				<Description>Gebruiker kan communiceren met het besturingssysteem</Description>
 			</Feature>
 			<Feature Name="Plug'n'Play">
 				<Name>Plug'n'Play</Name>
-				<Description>De gebruiker kan zo communiceren met het besturingssysteem in een aantal manieren</Description>
+				<Description>Gebruiker kan communiceren met het besturingssysteem in een aantal manieren</Description>
 			</Feature>
 			<Feature Name="Touch">
 				<Name>Aanraken</Name>
-				<Description>Je kunt nooit genoeg vette vingerafdrukken op een oppervlak hebben</Description>
+				<Description>Je kunt nooit genoeg vette vingerafdrukken op een oppervlak hebbenf</Description>
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
@@ -34,7 +34,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Multitasking">
 				<Name>Multitasking</Name>
-				<Description>Laat uw gebruikers doen alsof ze kunnen multitasken door meerdere applicaties geopend hebben op een bepaald moment.</Description>
+				<Description>Laat uw gebruikers doen alsof ze kunnen multitasken door het hebben van meerdere applicaties geopend op een bepaald moment.</Description>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Netwerken</Name>
@@ -46,7 +46,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="64-bit">
 				<Name>64-bit</Name>
-				<Description>Verdubbelt de omvang van bits per register, wdaardoor er: meer geheugen, grotere bestanden, het antwoord op het leven, enzovoort mogelijk zijn.</Description>
+				<Description>Verdubbelt de omvang van bits per register, waardoor grotere aantallen, meer geheugen, grotere bestanden, het antwoord op het leven, enzovoort.</Description>
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>PC speaker</Name>
@@ -67,7 +67,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Category>
 			<Category Name="Console">
 				<Name>Console</Name>
-				<Description>Voor de TV</Description>
+				<Description>Voor de TfV</Description>
 			</Category>
 			<Category Name="Phone">
 				<Name>Mobiel</Name>
@@ -77,86 +77,87 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="2D Editor">
 		<Name>2D Editor</Name>
-		<Description>Programma dat u in staat stelt om 2D reeksen van kleureninformatie te maken</Description>
+		<Description>Program that allows you to handle 2 dimensional arrays of color information</Description>
 		<Features>
 			<Feature Name="Image rendering">
-				<Name>Afbeeldingen weergeven</Name>
-				<Description>Afbeeldingen tonen op het scherm</Description>
+				<Name>Image rendering</Name>
+				<Description>Actually display an image on the screen</Description>
 			</Feature>
 			<Feature Name="Pixel manipulation">
-				<Name>Pixel manipulatie</Name>
+				<Name>Pixel manipulation</Name>
 			</Feature>
 			<Feature Name="Advanced brushes">
 				<Name>Advanced brushes</Name>
 			</Feature>
 			<Feature Name="Image effects">
-				<Name>Afbeelding effecten</Name>
+				<Name>Image effects</Name>
+				<Description>Needs more swirl</Description>
 			</Feature>
 			<Feature Name="Cinematic filter">
 				<Name>Cinematic filter</Name>
-				<Description>Direct professionalisme</Description>
+				<Description>Instant professionalism</Description>
 			</Feature>
 			<Feature Name="Image compression">
-				<Name>Afbeeldingen samendrukken</Name>
+				<Name>Image compression</Name>
 			</Feature>
 			<Feature Name="Video editing">
-				<Name>Video bewerking</Name>
+				<Name>Video editing</Name>
 			</Feature>
 			<Feature Name="Video codec">
 				<Name>Video codec</Name>
 			</Feature>
 			<Feature Name="Stock library">
-				<Name>Stock Bibliotheek</Name>
+				<Name>Stock library</Name>
 			</Feature>
 		</Features>
 		<Categories></Categories>
 	</Software>
 	<Software Name="3D Editor">
-		<Name>3D Bewerker</Name>
-		<Description>Punten in de ruimte, eigenlijky</Description>
+		<Name>3D Editor</Name>
+		<Description>Points in space, basically</Description>
 		<Features>
 			<Feature Name="Vertex editing">
-				<Name>Punten bewerker</Name>
-				<Description>Beweeg punten over het scherm</Description>
+				<Name>Vertex editing</Name>
+				<Description>Move points in space around on the screen</Description>
 			</Feature>
 			<Feature Name="Rendering">
-				<Name>Weergave</Name>
-				<Description>Geef punten weer in een afbeelding</Description>
+				<Name>Rendering</Name>
+				<Description>Process the points into a picture</Description>
 			</Feature>
 			<Feature Name="Animation">
-				<Name>Anematie's</Name>
-				<Description>Laat de punten bewegen</Description>
+				<Name>Animation</Name>
+				<Description>Make the points move themselves</Description>
 			</Feature>
 			<Feature Name="Sculpting">
-				<Name>Beeldhouwen</Name>
-				<Description>Doe alsof de punten klei zijn</Description>
+				<Name>Sculpting</Name>
+				<Description>Pretend the points are clay</Description>
 			</Feature>
 			<Feature Name="Voxel sculpting">
-				<Name>Voxel beeldhouwen</Name>
-				<Description>Alles is een punt</Description>
+				<Name>Voxel sculpting</Name>
+				<Description>Everything is a point</Description>
 			</Feature>
 			<Feature Name="Physics">
-				<Name>Fysica</Name>
-				<Description>Laat de punten op elkaar in werken</Description>
+				<Name>Physics</Name>
+				<Description>Make the points interact</Description>
 			</Feature>
 			<Feature Name="Realistic hair">
-				<Name>Realistisch haar</Name>
-				<Description>Maak lijnen tussen punten</Description>
+				<Name>Realistic hair</Name>
+				<Description>Make lines between the points</Description>
 			</Feature>
 			<Feature Name="Particles">
-				<Name>Deeltjes</Name>
-				<Description>Spuit overal puntjes</Description>
+				<Name>Particles</Name>
+				<Description>Spray points all over the place</Description>
 			</Feature>
 			<Feature Name="Liquid simulation">
-				<Name>Vloeibare simulatie</Name>
-				<Description>Mors overal puntjes</Description>
+				<Name>Liquid simulation</Name>
+				<Description>Spill points all over the place</Description>
 			</Feature>
-				<Feature Name="PBR">
+			<Feature Name="PBR">
 				<Name>PBR</Name>
-				<Description>Physically Based Rendering simuleert lichtdeeltjes die reageren met de punten</Description>
+				<Description>Physically Based Rendering simulates photons reacting with the points</Description>
 			</Feature>
 			<Feature Name="Distributed rendering">
-				<Name>Distributed weergave</Name>
+				<Name>Distributed rendering</Name>
 				<Description>Process the points into a picture on many computers at once</Description>
 			</Feature>
 		</Features>
@@ -192,6 +193,8 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			<Feature Name="Audio compression">
 				<Name>Audio compression</Name>
 			</Feature>
+		</Features>
+		<Categories></Categories>
 	</Software>
 	<Software Name="Game Engine">
 		<Name>Game Engine</Name>
@@ -352,7 +355,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Office Software">
 		<Name>Office Software</Name>
-
+		<Description></Description>
 		<Features>
 			<Feature Name="Word processor">
 				<Name>Word processor</Name>
@@ -507,7 +510,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Logistics Application">
 		<Name>Logistics Application</Name>
-
+		<Description></Description>
 		<Features>
 			<Feature Name="Commandline">
 				<Name>Commandline</Name>
@@ -526,7 +529,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Website">
 		<Name>Website</Name>
-
+		<Description></Description>
 		<Features>
 			<Feature Name="Static pages">
 				<Name>Static pages</Name>
@@ -548,7 +551,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Game Assets">
 		<Name>Game Assets</Name>
-
+		<Description></Description>
 		<Features>
 			<Feature Name="2D art">
 				<Name>2D art</Name>
@@ -573,7 +576,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 	</Software>
 	<Software Name="Embedded System">
 		<Name>Embedded System</Name>
-
+		<Description></Description>
 		<Features>
 			<Feature Name="Clock">
 				<Name>Clock</Name>
@@ -601,3 +604,4 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 		<Description>Use Quality Assurance to release a more stable product or fix the bugs as your customers irritably stumble into them</Description>
 	</Feature>
 </Software>
+
