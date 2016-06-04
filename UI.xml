@@ -1557,8 +1557,7 @@ Are you sure you want to continue?</Item>
 		<Item Name="NameChangePrompt">Employee name:</Item>
 		<Item Name="Change name">Change name</Item>
 		<Item Name="DeleteKeyHintHint">You can configure a keyboard shortcut to fire employees and destroy objects. The default is the DELETE key</Item>
-		<Item Name="SaveFailIOError">Failed saving game with error message:
-{0}</Item>
+		<Item Name="SaveFailIOError">Failed saving game with error message: {0}</Item>
 		<Item Name="Currency short form">Currency short form</Item>
 		<Item Name="MillionPost">M</Item>
 		<Item Name="BillionPost">B</Item>
