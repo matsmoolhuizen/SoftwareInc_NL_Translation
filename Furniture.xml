@@ -325,16 +325,16 @@
 		<Description></Description>
 	</Segment>
 	<Segment Name="Small window">
-		<Name>Kleine raam</Name>
+		<Name>Klein Raam</Name>
 		<Description>Volkomen nutteloos als het geplaatst wordt tussen de kamers</Description>
 	</Segment>
 	<Segment Name="Large window">
-		<Name>Grote raam</Name>
+		<Name>Grote Raam</Name>
 		<Description>Als je nog meer ramen wilt</Description>
 	</Segment>
 	<Segment Name="Wide window">
-		<Name>Brede raam</Name>
-		<Description>Voor de breed scherm ervaring</Description>
+		<Name>Breed Raam</Name>
+		<Description>Voor de Wat-Is-Dit-Een-Breed-Raam ervaring</Description>
 	</Segment>
 	<Segment Name="Arched gate">
 		<Name>Gebogen poort</Name>
