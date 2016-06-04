@@ -11,22 +11,22 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="GUI">
 				<Name>GUI</Name>
-				<Description>De Graphical User Interface gebruikers in staat om daadwerkelijk te visualiseren wat ze doen. Niet langer zullen ze gebonden aan het invoeren van één regel tegelijk.</Description>
+				<Description>De Graphical User Interface zet gebruikers in staat om daadwerkelijk te visualiseren wat ze doen. Niet langer zullen ze gebonden aan het invoeren van één regel tegelijk.</Description>
 			</Feature>
 			<Feature Name="3D rendering">
 				<Name>3D weergave</Name>
 			</Feature>
 			<Feature Name="Input system">
 				<Name>invoersysteem</Name>
-				<Description>Gebruiker kan communiceren met het besturingssysteem</Description>
+				<Description>Gebruiker kan zo communiceren met het besturingssysteem</Description>
 			</Feature>
 			<Feature Name="Plug'n'Play">
 				<Name>Plug'n'Play</Name>
-				<Description>Gebruiker kan communiceren met het besturingssysteem in een aantal manieren</Description>
+				<Description>Gebruiker kan zo communiceren met het besturingssysteem in een aantal manieren</Description>
 			</Feature>
 			<Feature Name="Touch">
 				<Name>Aanraken</Name>
-				<Description>Je kunt nooit genoeg vette vingerafdrukken op een oppervlak hebbenf</Description>
+				<Description>Je kunt nooit genoeg vette vingerafdrukken op een oppervlak hebben</Description>
 			</Feature>
 			<Feature Name="Multithreading">
 				<Name>Multithreading</Name>
@@ -34,7 +34,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Multitasking">
 				<Name>Multitasking</Name>
-				<Description>Laat uw gebruikers doen alsof ze kunnen multitasken door het hebben van meerdere applicaties geopend op een bepaald moment.</Description>
+				<Description>Laat uw gebruikers doen alsof ze kunnen multitasken door meerdere aplicaties op één moment open te hebben.</Description>
 			</Feature>
 			<Feature Name="Networking">
 				<Name>Netwerken</Name>
@@ -42,11 +42,11 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Feature>
 			<Feature Name="Auto-update">
 				<Name>Auto-update</Name>
-				<Description>Houd bugs en malware buiten, terwijl vervelende gebruikers met een gebroken drivers plotseling opnieuw opstarten</Description>
+				<Description>Houd bugs en malware buiten, terwijl vervelende gebruikers met kapotte drivers plotseling opnieuw opstarten</Description>
 			</Feature>
 			<Feature Name="64-bit">
 				<Name>64-bit</Name>
-				<Description>Verdubbelt de omvang van bits per register, waardoor grotere aantallen, meer geheugen, grotere bestanden, het antwoord op het leven, enzovoort.</Description>
+				<Description>Verdubbelt de omvang van bits per register, waardoor grotere aantallen, meer geheugen, grotere bestanden, het antwoord op het leven, enzovoort mogelijk zijn.</Description>
 			</Feature>
 			<Feature Name="PC speaker">
 				<Name>PC speaker</Name>
@@ -67,7 +67,7 @@ De meeste software heeft een besturingssyteem nodig om te werken. Als mensen sto
 			</Category>
 			<Category Name="Console">
 				<Name>Console</Name>
-				<Description>Voor de TfV</Description>
+				<Description>Voor de TV</Description>
 			</Category>
 			<Category Name="Phone">
 				<Name>Mobiel</Name>
