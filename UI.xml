@@ -353,7 +353,7 @@
 		<Item Name="PerHour"> per hour</Item>
 		<Item Name="PerMonth"> per month</Item>
 		<Item Name="ITPayment"> </Item>
-		<Item Name="SharesIn">Shares in company:</Item>
+		<Item Name="SharesIn">Share in company:</Item>
 	</StaffWindow>
 	<Newspaper>
 		<Item Name="Review section">Review section</Item>
