@@ -346,38 +346,38 @@
 		<Item Name="Permanent">Permanent</Item>
 		<Item Name="Temporary">Tijdelijk</Item>
 		<Item Name="Call janitor">Bel onderhoud</Item>
-		<Item Name="Call cleaning">Call cleaning</Item>
-		<Item Name="Call IT-support">Call IT-support</Item>
-		<Item Name="Hire janitor">Hire maintenance</Item>
-		<Item Name="Hire cleaning">Hire cleaning</Item>
-		<Item Name="PerHour"> per hour</Item>
-		<Item Name="PerMonth"> per month</Item>
+		<Item Name="Call cleaning">Bel schoonmaak</Item>
+		<Item Name="Call IT-support">Bel IT-Hulp</Item>
+		<Item Name="Hire janitor">Huur onderhoud</Item>
+		<Item Name="Hire cleaning">Huur schoonmaak</Item>
+		<Item Name="PerHour"> per uur</Item>
+		<Item Name="PerMonth"> per maand</Item>
 		<Item Name="ITPayment"> </Item>
-		<Item Name="SharesIn">Share in company:</Item>
+		<Item Name="SharesIn">Aandeel in bedrijf:</Item>
 	</StaffWindow>
 	<Newspaper>
-		<Item Name="Review section">Review section</Item>
-		<Item Name="Business section">Business section</Item>
-		<Item Name="Industry section">Industry section</Item>
-		<Item Name="Player section">You</Item>
+		<Item Name="Review section">review sectie</Item>
+		<Item Name="Business section">zakelijke gedeelte</Item>
+		<Item Name="Industry section">industry sectie</Item>
+		<Item Name="Player section">Jij</Item>
 	</Newspaper>
 	<Pause>
-		<Item Name="Resume">Resume</Item>
-		<Item Name="Save game">Save game</Item>
-		<Item Name="Save game as">Save game as...</Item>
-		<Item Name="Load game">Load game</Item>
-		<Item Name="Quit to menu">Quit to menu</Item>
-		<Item Name="Quit to desktop">Quit to desktop</Item>
+		<Item Name="Resume">Verder gaan</Item>
+		<Item Name="Save game">Opslaan...</Item>
+		<Item Name="Save game as">Opslaan als...</Item>
+		<Item Name="Load game">Laad spel</Item>
+		<Item Name="Quit to menu">Stop en ga terug naar menu</Item>
+		<Item Name="Quit to desktop">Sluit spel af</Item>
 	</Pause>
 	<Marketing>
-		<Item Name="Interwebs">Interwebs</Item>
+		<Item Name="Interwebs">Internet</Item>
 		<Item Name="Radio">Radio</Item>
-		<Item Name="Newspapers">Newspapers</Item>
-		<Item Name="Television">Television</Item>
-		<Item Name="Start campaign">Start campaign</Item>
+		<Item Name="Newspapers">kranten</Item>
+		<Item Name="Television">Tv</Item>
+		<Item Name="Start campaign">Start reclame</Item>
 	</Marketing>
 	<OptionsWindow>
-		<Item Name="Auto-skip day">Auto-skip day</Item>
+		<Item Name="Auto-skip day">Auto-skip een dag</Item>
 		<Item Name="AutoSkipHint">Will automatically skip to the next arrival of an employee if there is noone present</Item>
 		<Item Name="Currency">Currency</Item>
 		<Item Name="Difficulty">Difficulty</Item>
